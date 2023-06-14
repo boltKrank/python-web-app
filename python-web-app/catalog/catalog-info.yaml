@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: python-web-app
-  description: Python Flask Web App
+  description: Python Example Web App
   tags:
     - app-accelerator
     - python
@@ -16,4 +16,4 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: default-team
+  owner: simon
