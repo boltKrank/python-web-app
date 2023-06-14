@@ -10,6 +10,7 @@ metadata:
     - gunicorn
     - web
     - tanzu
+    - simon
   annotations:
     'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/part-of=python-web-app'
 spec:
