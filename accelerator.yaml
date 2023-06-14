@@ -1,7 +1,7 @@
 accelerator:
   displayName: Python Web App
   description: A sample Python web app
-  iconUrl: https://raw.githubusercontent.com/vmware-tanzu/application-accelerator-samples/main/python-web-app/pythonlogo.png
+  iconUrl: https://github.com/boltKrank/python-web-app/blob/main/logo.png
   tags:
   - python
   - flask
