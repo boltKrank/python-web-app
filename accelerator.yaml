@@ -1,12 +1,13 @@
 accelerator:
-  displayName: Tanzu Python Flask Web App
-  description: A sample Python Flask web application built with Tanzu supply-chain
+  displayName: Python Web App
+  description: A sample Python web app
   iconUrl: https://raw.githubusercontent.com/vmware-tanzu/application-accelerator-samples/main/python-web-app/pythonlogo.png
   tags:
   - python
   - flask
   - web
   - tanzu
+  - simon
 
   imports:
     - name: tap-workload
